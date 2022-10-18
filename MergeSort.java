@@ -9,13 +9,11 @@ public class Solution {
         for(int i=0;i<len1;i++){
            array1[i]=a[mi++];
 }
-      //  mi=mid+1;
+     
            for(int j=0;j<len2;j++){
            array2[j]=a[mi++];
 }
-        //now both array created
-        
-        //now sort them
+      
         
         int idx1=0,idx2=0;
         mi=s;
